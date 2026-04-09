@@ -1,4 +1,5 @@
+@import url(./variables/style.css);
+@import url(./appearance/style.css);
 img {
-    border: 1px solid;
     vertical-align: middle;
 }

@@ -1,0 +1,5 @@
+body {
+    background-color: var(--gray-100);
+    color: var(--body-text-clr);
+    font-family: Roboto, sans-serif;
+}
